@@ -4,7 +4,7 @@
 # Smart mobile studio
 *.dsk
 *.sproj
-Random Platform Scroller/www/*
+www/*
 
 # My text files (plans)
-Random Platform Scroller/plans/*
+plans/
