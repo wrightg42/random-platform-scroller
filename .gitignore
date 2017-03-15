@@ -1,0 +1,10 @@
+# Giteye
+*.project
+
+# Smart mobile studio
+*.dsk
+*.sproj
+Random Platform Scroller/www/*
+
+# My text files (plans)
+Random Platform Scroller/plans/*
